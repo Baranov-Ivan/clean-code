@@ -1,0 +1,1 @@
+RS School JS Q12021. Repository for clean-code tasks
