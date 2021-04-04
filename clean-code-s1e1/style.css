@@ -179,3 +179,7 @@ ul li.edit-mode input[type="text"] {
 ul li.edit-mode label {
   display: none;
 }
+
+.todo-header {
+  margin-top: 16px;
+}
