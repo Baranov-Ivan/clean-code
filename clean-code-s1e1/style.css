@@ -21,8 +21,11 @@ body {
 }
 
 @media (max-width:768px) {
-.head-wrapper { text-align: center;
-}
+
+  .head-wrapper {
+    text-align: center;
+  }
+
 }
 
 .main-wrapper {
