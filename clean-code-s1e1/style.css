@@ -112,10 +112,6 @@ input#new-task {
   width: 318px;
 }
 
-p > button:hover {
-  color: #0fc57c;
-}
-
 /* Task list */
 li {
   overflow: hidden;
@@ -182,4 +178,12 @@ ul li.edit-mode label {
 
 .todo-header {
   margin-top: 16px;
+}
+
+h4 {
+  width: 0;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  visibility: hidden;
 }
